@@ -1,0 +1,13 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main () {
+  string twice [ ] = {"Tzuyu" , "Sana" , "Momo" , "Jhiyo",};
+  
+  for (int i = 0; i < 4; i++){
+  cout << "The no. " << i << " member of twice is " << twice [i] << endl;
+  }
+  
+return 0;
+}
