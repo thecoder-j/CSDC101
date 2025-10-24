@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+
+  int cars [5] = {1, 44, 4, 55, 16};
+
+  cout << "the first car is " << cars [0] << endl;
+  cout << "the second car is " << cars [1] << endl;
+  cout << "the third car is " << cars [2] << endl;
+  cout << "the fourth car is " << cars [3] << endl;
+  cout << "the fifth car is " << cars [4] << endl;
+
+
+return 0;
+}
